@@ -1,3 +1,4 @@
+//wymagany plugin ansicollor
 def loadColor(){
     RED='\033[0;31m'
     CYAN='\033[0;36m'
